@@ -4,3 +4,4 @@ plugins:
 title: Kerb Writeups
 author: Kerburenthusiasm
 description: CTF Writeups and Security Research
+baseurl: /kerbwriteups
